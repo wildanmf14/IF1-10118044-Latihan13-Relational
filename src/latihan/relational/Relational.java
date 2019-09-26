@@ -1,12 +1,12 @@
 package latihan.relational;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi operasi relational
+ */
 public class Relational {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi operasi relational
-     */
+	
 	 public static void main(String[] args) {
 	        int bil1 = 10;
 	        int bil2 = 20;
